@@ -11,7 +11,7 @@
 </div>
 
 
-* * Prerelease coming up soon... * *
+** Prerelease coming up soon... **
 
 
 
