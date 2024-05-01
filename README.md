@@ -80,6 +80,7 @@ npm run dev
 # Upcoming Features
 
 Here are some exciting features to look forward to:
+- ⬜️ Educator with knowledge proof in scpecifield subject.
 - ⬜️ Enhanced decision impacts with more complex AI visuals.
 - ⬜️ Custom model adaptaion (user defined settings).
 - ⬜️ Curriculum customization.
